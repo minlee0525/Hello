@@ -2,6 +2,7 @@
 public class car {
 	car(){
 		System.out.println("부모 car 생성자 기본형");
+		System.out.println("Test");
 	}
 	car(String name){
 		System.out.println("부모 car 생성자"+name);
